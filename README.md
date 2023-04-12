@@ -1,2 +1,1 @@
-# PrepCourse-Herny2
-este es un repositorio de pureba del modulo 2 de herny 
+Este proyecto es una prueba sobre como crear un repositorio y clonarnlo desde github
